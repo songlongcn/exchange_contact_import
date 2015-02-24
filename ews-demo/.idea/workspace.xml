@@ -8,11 +8,35 @@
     <file path="/a.java" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1423699860518" ignored="false" />
     <file path="/Race.groovy" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1423790658382" ignored="false" />
     <file path="/Registration.groovy" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1423792017013" ignored="false" />
-    <file path="/RaceController.groovy" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424307169939" ignored="false" />
+    <file path="/RaceController.groovy" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424742546120" ignored="false" />
     <file path="/TestScaffoldController.groovy" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1423854747848" ignored="false" />
-    <file path="/a.dummy" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1423872071553" ignored="false" />
+    <file path="/a.dummy" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424719139833" ignored="false" />
     <file path="C:/j2app/livedriveBilling/grails-app/conf/Config.groovy" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1423872931417" ignored="false" />
     <file path="/BuildConfig.groovy" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424310320362" ignored="false" />
+    <file path="/Dummy.txt" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424729646058" ignored="false" />
+    <file path="/AddressBookGrid.js" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424719100518" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/js/mc/AddressBookGrid.js" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424731024721" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/html/content/i18nMessageCenterMessages.gsp" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424729691351" ignored="false" />
+    <file path="/i18nMessageCenterMessages.gsp" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424719249368" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/messages.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424719285761" ignored="false" />
+    <file path="/messages.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424719285761" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/messages_de.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424719339042" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/messages_es.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424719347219" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/messages_fr.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424719355659" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/messages_it.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424719364780" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/messages_ja.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424719374147" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/messages_nl.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424719384460" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/efaxi_it.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424729644408" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/efaxi_fr.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424729644408" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/efaxi_es.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424729644408" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/efaxi_nl.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424729644408" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/efaxi.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424729644408" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/efaxi_ja.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424729644408" ignored="false" />
+    <file path="C:/j2app/myaccount/web-app/resources/i18n/efaxi_de.properties" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424729644408" ignored="false" />
+    <file path="C:/j2app/myaccount/grails-app/controllers/com/j2/myaccount/AddressBookController.groovy" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424741278675" ignored="false" />
+    <file path="/AddressBookController.groovy" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424741276662" ignored="false" />
+    <file path="C:/j2app/myaccount/target/resources/web.xml" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424738494901" ignored="false" />
+    <file path="C:/j2app/myaccount/grails-app/conf/BuildConfig.groovy" changelist="e2e1061d-15d3-402a-a8c4-d0d4ff2b7162" time="1424740088928" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +53,7 @@
   <component name="DebuggerManager">
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/RaceController.groovy" line="17" class="ews.demo.RaceController" package="ews.demo">
+      <breakpoint url="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/RaceController.groovy" line="34" class="ews.demo.RaceController" package="ews.demo">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -44,7 +68,67 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/RaceController.groovy" line="15" class="ews.demo.RaceController" package="ews.demo">
+      <breakpoint url="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/RaceController.groovy" line="55" class="ews.demo.RaceController.RedirectionUrlCallback" package="ews.demo">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/RaceController.groovy" line="56" class="ews.demo.RaceController.RedirectionUrlCallback" package="ews.demo">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/RaceController.groovy" line="21" class="ews.demo.RaceController" package="ews.demo">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/RaceController.groovy" line="27" class="ews.demo.RaceController" package="ews.demo">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/RaceController.groovy" line="29" class="ews.demo.RaceController" package="ews.demo">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -108,16 +192,19 @@
       <file leaf-file-name="Race.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/ews/demo/Race.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="29" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
+            <state line="10" column="29" selection-start="173" selection-end="173" vertical-scroll-proportion="-3.5416667">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Registration.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/ews/demo/Registration.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="106" selection-start="801" selection-end="801" vertical-scroll-proportion="-6.7291665">
+            <state line="19" column="106" selection-start="801" selection-end="801" vertical-scroll-proportion="-6.1875">
               <folding />
             </state>
           </provider>
@@ -129,7 +216,7 @@
       <file leaf-file-name="TestScaffoldController.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/TestScaffoldController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="27" selection-start="417" selection-end="417" vertical-scroll-proportion="-7.3913045">
+            <state line="10" column="27" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,8 +225,22 @@
       <file leaf-file-name="RaceController.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/RaceController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="26" selection-start="744" selection-end="744" vertical-scroll-proportion="0.2886248">
-              <folding />
+            <state line="31" column="72" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.61538464">
+              <folding>
+                <element signature="e#18#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExchangeCredentials.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../ews-java-api/target/ews-java-api-2.0-SNAPSHOT-sources.jar!/microsoft/exchange/webservices/data/ExchangeCredentials.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="2" selection-start="2022" selection-end="2022" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,7 +257,7 @@
       <file leaf-file-name="BuildConfig.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="63" selection-start="2810" selection-end="2810" vertical-scroll-proportion="-12.76">
+            <state line="57" column="40" selection-start="2787" selection-end="2810" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -181,10 +282,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="88" />
-    <option name="width" value="1129" />
-    <option name="height" value="831" />
+    <option name="x" value="1272" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -292,42 +393,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="httpcore-4.3.3.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ews-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ews-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="httpclient-4.3.5.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ews-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ews-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="grails-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -370,8 +435,8 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -379,12 +444,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Remote.ews-demo">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -395,12 +454,31 @@
       <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -429,19 +507,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -542,7 +607,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="88" width="1129" height="831" extended-state="1" />
+    <frame x="1272" y="-8" width="1296" height="1040" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -550,7 +615,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39952996" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5811578" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -563,7 +628,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28865978" sideWeight="0.71169126" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.41884223" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -632,14 +697,11 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/ews/demo/Race.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="29" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/ews/demo/Registration.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="106" selection-start="801" selection-end="801" vertical-scroll-proportion="0.0">
@@ -660,7 +722,9 @@
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/RaceController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="59" selection-start="771" selection-end="771" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="e#18#76#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -690,26 +754,9 @@
         <state line="37" column="54" selection-start="1629" selection-end="1673" vertical-scroll-proportion="0.31812865" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/ews/demo/Race.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="29" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/TestScaffoldController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="27" selection-start="417" selection-end="417" vertical-scroll-proportion="-7.3913045">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="63" selection-start="2810" selection-end="2810" vertical-scroll-proportion="-12.76">
+        <state line="10" column="27" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -723,7 +770,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/ews/demo/Registration.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="106" selection-start="801" selection-end="801" vertical-scroll-proportion="-6.7291665">
+        <state line="19" column="106" selection-start="801" selection-end="801" vertical-scroll-proportion="-6.1875">
           <folding />
         </state>
       </provider>
@@ -731,10 +778,53 @@
         <state />
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../../ews-java-api/target/ews-java-api-2.0-SNAPSHOT-sources.jar!/microsoft/exchange/webservices/data/ExchangeCredentials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="2" selection-start="2022" selection-end="2022" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="40" selection-start="2787" selection-end="2810" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/ews/demo/Race.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="29" selection-start="173" selection-end="173" vertical-scroll-proportion="-3.5416667">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../ews-java-api/target/ews-java-api-2.0-SNAPSHOT-sources.jar!/microsoft/exchange/webservices/data/ContactsFolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="13" selection-start="1331" selection-end="1331" vertical-scroll-proportion="0.12014134">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../ews-java-api/target/ews-java-api-2.0-SNAPSHOT-sources.jar!/microsoft/exchange/webservices/data/WellKnownFolderName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="2" selection-start="1399" selection-end="1399" vertical-scroll-proportion="0.33215547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/ews/demo/RaceController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="744" selection-end="744" vertical-scroll-proportion="0.2886248">
-          <folding />
+        <state line="31" column="72" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.61538464">
+          <folding>
+            <element signature="e#18#76#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -745,7 +835,7 @@
         <entry key="ews-demo">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="-1300361898" />
+              <option name="buildConfigCrc" value="1366483501" />
               <option name="pluginDependenciesCrc" value="1682136675" />
               <option name="properties">
                 <map>
